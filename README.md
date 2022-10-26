@@ -1,18 +1,11 @@
-![MasterHead](https://startupsmagazine.co.uk/sites/default/files/2020-04/Smart-little-girl-using-her-laptop-1.gif)
-<h1 align="center">Hi 👋, I'm Beray</h1>
-<h3 align="center">A passionate back end developer from Turkiye</h3>
+<h1 align="center">Hi 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 
+My name is Beray and I'm a Junior Back End Developer who loves to work with Python technologies. Right now I am focused on learning everything that is related to Web Development including frameworks. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berayaslan&label=Profile%20views&color=0e75b6&style=flat" alt="berayaslan" /> </p>
+🌱I’m currently learning **Python, PostreSQL, HTML, CSS**
+📫Reach me at **berayaslan2@gmail.com**
 
-- 🌱 I’m currently learning **Python, PostreSQL, HTML, CSS**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **berayaslan2@gmail.com**
-
-- ⚡ Fun fact **I'm in love with cats!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
