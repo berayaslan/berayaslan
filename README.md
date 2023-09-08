@@ -3,7 +3,7 @@
 
 My name is Beray and I'm a Junior Back End Developer who loves to work with Python technologies. Right now I am focused on learning everything that is related to  Back End Developer tools. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. I'm always ready to learn and share my informations.
 
-🌱I’m currently learning **Python, PostreSQL, HTML, CSS**
+🌱I’m currently learning **Python, PostgreSQL, HTML, CSS, JavaScript**
 
 📫Reach me at **berayaslan2@gmail.com**
 
