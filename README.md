@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 
-My name is Beray and I'm a Junior Front-End Developer. Right now I am focused on learning everything that is related to Front-End Developer tools. 
+My name is Beray and I'm a Junior Data Analyst. Right now I am focused on learning everything that is related to Front-End Developer tools. 
 
 🌱I’m currently learning **Python, PostgreSQL, HTML, CSS, JavaScript**
 
