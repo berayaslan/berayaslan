@@ -3,7 +3,7 @@
 
 My name is Beray and I'm a Junior Data Analyst. Right now I am focused on learning everything that is related to Data Analyst tools. 
 
-🌱I’m currently learning **Python, PostgreSQL, HTML, CSS, JavaScript**
+🌱I’m currently learning **Python, MsSQL, HTML, CSS, JavaScript**
 
 📫Reach me at **berayaslan2@gmail.com**
 
